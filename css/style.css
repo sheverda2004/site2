@@ -1,0 +1,535 @@
+body {
+	background-color: #F7F7F7;
+}
+.photo {
+	position: absolute;
+    top: -271px;
+	left: 1%;
+	right: 1%;
+	max-height: 950px;
+	min-height: 950px;
+	overflow: hidden;
+
+}
+.text {
+   position: absolute;
+   top: 35px;
+   cursor: pointer;
+   left: 15%;
+   font-size: 3em;
+}
+.to {
+   position: absolute;
+   top: 90px;
+   cursor: pointer;
+   left: 15%;
+   font-size: 1em;
+}
+.logo {
+   position: absolute;
+   left: 70%;
+   top: 50px;
+   min-height: 50px;
+   min-width:200px;
+}
+.twiter {
+   position: absolute;
+}
+
+.face {
+   position: absolute;
+   left: 30%;
+   padding-bottom: 8px;
+   padding-top: 7px;
+}
+.you {
+   position: absolute;
+   left: 60%;
+}
+.ele {
+   position: absolute;
+   height: 77px;
+   background-color: #101010;
+   top: 601px;
+   width: 1200px;
+   left: 18%;
+}
+.home {
+   position: absolute;
+   color: #fff;
+   width: 153.64px;
+   height: 52px;
+   text-align: center;
+   top: 26px;
+   color: #888888;
+   font: menu;
+}
+.home:hover {
+   color: #fff;
+   transition: 0.2s color;
+}
+.ser {
+   position: absolute;
+   color: #fff;
+   width: 153.64px;
+   height: 52px;
+   text-align: center;
+   padding-top: 26px;
+   font-size: 20px;
+   color: #888888;
+   left: 12.8%;
+   font: menu;
+}
+.ser:hover {
+   color: #fff;
+   transition: 0.2s color;
+}
+.our {
+   position: absolute;
+   color: #fff;
+   width: 153.64px;
+   height: 52px;
+   text-align: center;
+   padding-top: 26px;
+   font-size: 20px;
+   color: #888888;
+   left: 25.6%;
+   font: menu;
+}
+.our:hover {
+   color: #fff;
+   transition: 0.2s color;
+}
+.about {
+   position: absolute;
+   color: #fff;
+   width: 153.64px;
+   height: 52px;
+   text-align: center;
+   padding-top: 26px;
+   font-size: 20px;
+   color: #888888;
+   left: 38.4%;
+   font: menu;
+}
+.about:hover {
+   color: #fff;
+   transition: 0.2s color;
+}
+.car {
+   position: absolute;
+   color: #fff;
+   width: 153.64px;
+   height: 52px;
+   text-align: center;
+   padding-top: 26px;
+   font-size: 20px;
+   color: #888888;
+   left: 51.2%;
+   font: menu;
+}
+.car:hover {
+   color: #fff;
+   transition: 0.2s color;
+}
+.con {
+      position: absolute;
+   color: #fff;
+   width: 153.64px;
+   height: 52px;
+   text-align: center;
+   padding-top: 26px;
+   font-size: 20px;
+   color: #888888;
+   left: 65%;
+   font: menu;
+}
+.con:hover {
+   color: #fff;
+   transition: 0.2s color;
+}
+.fon {
+	position: absolute;
+	background-color: #fff;
+   
+	height: 500px;
+	left: 1%;
+	right: 1%;
+	top: 679px;
+}
+.info {
+	position: absolute;
+	top: 678px;
+	left: 18%;
+	width: 1300px;
+	height: 400px;
+}
+.this {
+	position: absolute;
+    top: 110px;
+	width: 270px;
+	text-align: left;
+	height: 282px;
+}
+.mae {
+	position: absolute;
+	top: 40px;
+	font: caption;
+}
+.fus {
+	position: absolute;
+	left: 21%;
+	top: 40px;
+	text-align: left;
+	font: caption;
+}
+.telefon {
+	position: absolute;
+	left: 21%;
+	top: 122px;
+}
+.donec {
+	position: absolute;
+	left: 21%;
+	top: 280px;
+	width: 300px;
+}
+.mau {
+	position: absolute;
+	left: 45%;
+	top: 40px;
+	text-align: left;
+	font: caption;
+}
+.naush {
+	position: absolute;
+	left: 45%;
+	top: 122px;
+}
+.phase {
+	position: absolute;
+	left: 45%;
+	top: 280px;
+	width: 300px;
+}
+.prae {
+	position: absolute;
+	left: 69%;
+	top: 40px;
+	text-align: left;
+	font: caption;
+}
+.bam {
+	position: absolute;
+	left: 69%;
+	top: 122px;
+}
+.eleifend {
+	position: absolute;
+	left: 69%;
+	top: 280px;
+	width: 300px;
+}
+.aene {
+	position: absolute;
+	top: 1150px;
+	height: 600px;
+	left: 18%;
+	width: 1207px;
+}
+.aenear {
+	position: absolute;
+	padding-top: 80px;
+	font: icon;
+}
+.inter {
+	position: absolute;
+	top: 150px;
+	font: icon;
+}
+.ves {
+	position: absolute;
+	top: 250px;
+	width: 282px;
+}
+.vesti {
+	font:  19.2px status-bar;
+}
+.fer {
+	color: #7C7C7C;
+}
+.sce {
+    position: absolute;
+	top: 250px;
+	width: 282px;
+	left:23.4%;
+	height: 118.38px;
+}
+.pra {
+	font:  19.2px status-bar;
+}
+.vulpu {
+	position: absolute;
+	top: 250px;
+	width: 282px;
+	left: 46.8%;
+	height: 118.38px;
+}
+.vul {
+	font:  19.2px status-bar;
+}
+.viva {
+	color: #7C7C7C;
+}
+.dolor {
+	position: absolute;
+	top: 250px;
+	width: 282px;
+	left: 70.1%;
+	height: 118.38px;
+}
+.dol {
+	font:  19.2px status-bar;
+}
+.rut {
+	color: #7C7C7C;
+}
+.button {
+	background-color: black;
+	height: 48px;
+	width: 162.08px;
+	position: absolute;
+	top: 150px;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+}
+.unti {
+	position: absolute;
+	text-align: center;
+	left: 25%;
+	top: 520px;
+}
+
+@media screen and (max-width: 1919px) {
+   .photo {
+   	height: 948px;
+   	left: 0%;
+   	right: 0%;
+   }
+}
+@media screen and (max-width: 1900px) {
+   .photo {
+   	height: 942px;
+   	left: 0%;
+   	right: 0%;
+   }
+}
+@media screen and (max-width: 1490px) {
+	.ele {
+		left: 7%;
+	}
+}
+@media screen and (max-width: 1490px) {
+	.info {
+		left: 3%;
+       width: 1300px;
+	}
+	.aene {
+		left: 3%;
+	} 
+}
+@media screen and (max-width: 1260px) {
+	.fon {
+		height: 700px;
+	}
+	.info {
+		width: 700px;
+		left: 24%;
+		height: 680px;
+	}
+	.ele {
+		width: 1000px;
+	}
+	.mau {
+       top: 380px;
+       left: 0%;
+	}
+	.naush {
+		left: 0%;
+		top: 450px;
+        width: 265px;
+	}
+	.phase {
+		left: 0%;
+		top: 600px;
+		width: 265px;
+	}
+	.prae {
+		left: 40%;
+		top: 380px;
+	}
+	.bam {
+		left: 40%;
+		top: 450px;
+        width: 265px;
+	}
+	.eleifend {
+		left: 40%;
+		top: 600px;
+		width: 265px;
+	}
+	.fus {
+		left: 40%;
+	}
+	.telefon {
+		left: 40%;
+	}
+    .donec {
+    	left: 40%;
+    }
+	.aene {
+	    top: 1350px;
+	}
+   .aene {
+   	    left: 24%;
+   	    width: 700px;
+   	    height: 830px;
+   }
+   .vulpu {
+   	    left: 0%;
+   	    top: 500px;
+   }
+   .dolor {
+   	    top: 500px;
+   	    left: 39%;
+   }
+   .sce {
+   	    left: 39%;
+   }
+   .unti {
+        left: 0%;
+        top: 750px;
+   }
+}
+@media screen and (max-width: 1300px) {
+    .ele {
+    	top: 400px;
+    	height: 151px;
+    	top: 528px;
+    	width: 500px;
+    	left: 24%;
+    }
+	.about {
+		 top: 65px;
+		 left:0%;
+	}
+	.car {
+		top: 65px;
+		left: 32%;
+	}
+	.con {
+		top: 65px;
+		left: 68.5%;
+	}
+	.our {
+		left: 68.5%;
+	}
+	.ser {
+		left: 32%;
+	}	
+}
+@media screen and (max-width: 720px) {
+    .info {
+    	left: 4%;
+    }
+    .aene {
+    	left: 4%;
+    }
+    .ele {
+    	left: 4%;
+    }
+}	
+@media screen and (max-width: 650px) {
+    .ele {
+    	left:0%;
+    }
+}	
+@media screen and (max-width: 580px) {
+	.fon {
+		height: 1370px;
+	}
+	.logo {
+		left: 60%;
+	}
+	.text {
+		left: 5%;
+	}
+	.info {
+		height: 1500px;
+		width: 320px;
+		left: 15%;
+	}
+	.fus {
+		top: 380px;
+		left: 0px;
+	}
+	.telefon {
+		left: 0%;
+		top: 450px;
+	}
+	.donec {
+		left: 0%;
+		top: 600px;
+	}
+	.phase {
+		top: 910px;
+	}
+	.naush {
+		top: 770px;
+	}
+	.mau {
+		top: 700px;
+	}
+    .prae {
+    	top: 1020px;
+    	left: 0%;
+    }
+    .bam {
+    	top: 1090px;
+    	left: 0%;
+    }
+    .eleifend {
+    	left: 0%;
+    	top: 1230px;
+    }
+	.aene {
+		top: 2000px;
+		width: 380px;
+		height: 1300px;
+		left: 14%;
+	}
+	.inter {
+		top: 190px;
+	}
+	.vulpu {
+		top: 920px;
+	}
+	.dolor {
+		top: 700px;
+		left: 0%;
+	}
+	.sce {
+		top: 480px;
+		left: 0%;
+	}
+	.unti {
+		top: 1200px;
+	}
+	.ele {
+		width: 487px;
+	}
+	.photo {
+		right: -1%;
+	}
+}
